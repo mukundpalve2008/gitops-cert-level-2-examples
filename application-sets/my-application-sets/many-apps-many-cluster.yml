@@ -31,5 +31,5 @@ spec:
         server: '{{server}}'
         namespace: '{{path.basename}}'
   syncPolicy:
-  automated:
-    selfHeal: true
+    automated:
+      selfHeal: true
